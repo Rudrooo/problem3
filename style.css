@@ -1,5 +1,5 @@
 body{
-    /*background-color: hsl(217, 54%, 11%);*/
+    background-color: hsl(217, 54%, 11%);
 
     text-align: center;
 }
@@ -161,12 +161,10 @@ a{
     opacity: 1;
 }
 .top-container:hover .mi{
-    opacity: 0.3;
+    opacity: 0.5;
    
   }
-  .a1{
-    color: rgb(255, 183, 0);
-  }
+  
   .image-view{
     text-align: center;
     padding-top:40% ;
