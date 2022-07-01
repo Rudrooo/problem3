@@ -39,6 +39,7 @@ body{
 .image-1{
     border-radius: 4%;
     margin-top: 25px;
+    width:250px;
 }
 .grid-container{
     display: grid;
@@ -94,6 +95,7 @@ hr{
     border-width: 1px;
     border-radius: 100%;
     border-color: white;
+    width: 30px;
 }
 .bottom-container{
     color: hsl(0, 0%, 100%);
